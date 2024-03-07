@@ -9,7 +9,7 @@ Department of Electrical Engineering
 https://www.cse.iitb.ac.in/~viren/
 
 ### Course Schedule
-LA 001 - Slot 12 : 
+LA 201 - Slot 12 : 
 * Monday 5:30 pm to 7:00 pm
 * Thursday 5:30 pm to 7:00 pm (Get ready for weekly quiz!)
 
